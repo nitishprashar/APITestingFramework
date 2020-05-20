@@ -1,0 +1,5 @@
+[main] DEBUG devpinoyLogger  - Running SoapUI test [E2E_Testing_Emp]
+[main] DEBUG devpinoyLogger  - FINISHED
+[main] DEBUG devpinoyLogger  - 
+[main] DEBUG devpinoyLogger  - Test case---com.eviware.soapui.impl.wsdl.testcase.WsdlTestCase@50df37eb---successfully executed
+[main] DEBUG devpinoyLogger  - Test Execution completed
